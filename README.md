@@ -1,7 +1,4 @@
-### Hi
-
-[Website Not Up Yet](https://www.example.com)
-
+### Hi Yall
 
 [![Stats bby(https://github-readme-stats.vercel.app/api?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
