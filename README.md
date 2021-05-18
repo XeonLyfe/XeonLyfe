@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi
+
+[Website Not Up Yet](https://www.example.com)
+
+
+[![Stats bby(https://github-readme-stats.vercel.app/api?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+[![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **XeonLyfe/XeonLyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
