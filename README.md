@@ -1,8 +1,5 @@
 ### Hi Yall
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
-        height="130">
 </p>
 <p align="center">
     <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
