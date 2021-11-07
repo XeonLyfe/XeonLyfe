@@ -1,6 +1,11 @@
 ### Hi Yall
 
 [![Stats bby](https://github-readme-stats.vercel.app/api?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Years Badge](https://badges.pufler.dev/years/XeonLyfe](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/XeonLyfe(https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/XeonLyfe)](https://badges.pufler.dev)
+
+
 
 [![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
