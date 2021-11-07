@@ -7,6 +7,8 @@
 Visitor Counter →
 ![Visitor Count](https://profile-counter.glitch.me/{XeonLyfe}/count.svg)
 
+https://profile-summary-for-github.com/user/XeonLyfe
+
 <!--
 **XeonLyfe/XeonLyfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
