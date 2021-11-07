@@ -4,6 +4,8 @@
 
 [![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Repos Badge](https://badges.pufler.dev/repos/XeonLyfe)](https://badges.pufler.dev)
+
 Visitor Counter →
 ![Visitor Count](https://profile-counter.glitch.me/{XeonLyfe}/count.svg)
 
