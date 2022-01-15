@@ -6,12 +6,7 @@ Hey!
 </p>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/766795322391134208.png"></img>
-</p>
-
-
-</p>
-<p align="center">
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 Visitor Counter →
