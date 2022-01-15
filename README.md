@@ -12,6 +12,8 @@ Im a Java, HTML and Kotlin developer.
 <img src="https://discord.c99.nl/widget/theme-3/766795322391134208.png"></img>
 </p.
 
+</p>
+<p align="center">
 - 🔭 I’m currently working on: Xenon
 - 🌱 I’m currently learning: Kotlin
 - 👯 I’m looking to collaborate on: An Obfuscator and Loader
@@ -19,3 +21,4 @@ Im a Java, HTML and Kotlin developer.
 - 💬 Ask me about: Help with coding a Client!
 - 📫 How to reach me: Discord, which is above!
 - ⚡ Fun fact: Bill Nye Your Mom's A Guy!
+</p.
