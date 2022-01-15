@@ -11,7 +11,7 @@ Hey!
 
 
 <p align="center">
-https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 Visitor Counter →
