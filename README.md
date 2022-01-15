@@ -1,7 +1,10 @@
-</p>
-<p align="center">
-Hey!
-</p>
+## Hello!, Im XeonLyfe
+
+Im a Java, HTML and Kotlin developer.
+
+#### - My ign : XeonLyfe
+
+![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
 
 </p>
 <p align="center">
