@@ -11,7 +11,7 @@ Hey!
 
 
 <p align="center">
-[![oo oo aa aa](https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats
 </p>
 
 Visitor Counter →
