@@ -6,8 +6,9 @@ Hey!
 </p>
 <p align="center">
 <img src="https://discord.c99.nl/widget/theme-3/766795322391134208.png"></img>
-</p>
-![Test](https://github-readme-stats.vercel.app/api/top-langs/?username=XeonLyfe&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+Visitor Counter →
+![Visitor Count](https://profile-counter.glitch.me/{XeonLyfe}/count.svg)
+</p.
 
 
 Visitor Counter →
