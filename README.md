@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-Hi Yall
+Hey!
 </p>
 
 </p>
