@@ -7,7 +7,6 @@ Im a Java, HTML and Kotlin developer.
 ![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-3/766795322391134208.png">
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/XeonLyfe/XeonLyfe/output/github-contribution-grid-snake.svg)
 
