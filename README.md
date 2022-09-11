@@ -1,6 +1,6 @@
 ## Hello!, Im XeonLyfe
 
-Im a Java, HTML and Kotlin developer.
+Im a Java, C# and HTML developer.
 
 #### - My ign : XeonLyfe
 
@@ -12,8 +12,8 @@ Im a Java, HTML and Kotlin developer.
 
 
 - 🔭 I’m currently working on: [Xenon Rewrite 😉](https://github.com/XenonUtilityDevelopment)
-- 🌱 I’m currently learning: More advanced Java
+- 🌱 I’m currently learning: Nothing
 - 👯 I’m looking to collaborate on: An Obfuscator
-- 💬 Ask me about: Help with coding a Client!
-- 📫 How to reach me: Discord, which is above!
+- 💬 Ask me about: Help with coding.
+- 📫 How to reach me: Discord: XeonLyfe#9723
 - ⚡ Fun fact: Bill Nye Your Mom's A Guy!
