@@ -17,4 +17,4 @@ HTML developer
 - 📫 How to reach me: Discord: XeonLyfe#9723
 - ⚡ Fun fact: fuck you
 
-- ![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
+![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
