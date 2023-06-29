@@ -1,10 +1,9 @@
 ## Hello!, Im XeonLyfe
 
-Im a Java, C# and HTML developer.
-
-#### - My ign : XeonLyfe
-
-![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
+Java
+C#
+C++
+HTML developer
 
 <p align="center">
 
@@ -17,3 +16,5 @@ Im a Java, C# and HTML developer.
 - 💬 Ask me for help with coding.
 - 📫 How to reach me: Discord: XeonLyfe#9723
 - ⚡ Fun fact: fuck you
+
+- ![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
