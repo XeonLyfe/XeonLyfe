@@ -1,9 +1,7 @@
-## Hello!, Im XeonLyfe
+## Hello!
+Im XeonLyfe
 
-Java
-C#
-C++
-HTML developer
+Java, C#, C++, HTML
 
 <p align="center">
 
