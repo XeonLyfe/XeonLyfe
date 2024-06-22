@@ -1,5 +1,5 @@
 ## who i am
-I'm Xeon abd I hate when people use protection.
+I'm Xeon and I hate when people use protection.
 
 ## shit i know
 Java C++ C# HTML Veteran
