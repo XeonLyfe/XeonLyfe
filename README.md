@@ -20,4 +20,4 @@ Java C++ C# HTML Veteran
 
 Discord: xeonlyfe
 Fun fact, fuck you.
-![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
+<br />![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
