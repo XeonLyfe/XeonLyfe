@@ -1,12 +1,12 @@
 ## who i am
-I'm Xeon and I hate when people use protection.
+<br />I'm Xeon and I hate when people use protection.
 
 ## shit i know
-Java C++ C# HTML Veteran
+<br />Java C++ C# HTML Veteran
 
 <p align="center">
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/XeonLyfe/XeonLyfe/output/github-contribution-grid-snake.svg)
+<br />![github contribution grid snake animation](https://raw.githubusercontent.com/XeonLyfe/XeonLyfe/output/github-contribution-grid-snake.svg)
 
 ## why i stopped
 <br />I stopped playing anarchy because I have a life. 
@@ -18,6 +18,6 @@ Java C++ C# HTML Veteran
 <br />I will never truly be gone,
 <br />- xeon
 
-Discord: xeonlyfe
-Fun fact, fuck you.
+<br />Discord: xeonlyfe
+<br />Fun fact, fuck you.
 <br />![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
