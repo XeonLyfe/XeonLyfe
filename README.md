@@ -1,7 +1,7 @@
 ## who i am
 I'm Xeon and I hate protection.
+
 <br />Discord: xeonlyfe
-<br />Fun fact, fuck you.
 <br />![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
 
 ## shit i know
