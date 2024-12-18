@@ -8,15 +8,10 @@ Java C++ C# HTML Veteran
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/XeonLyfe/XeonLyfe/output/github-contribution-grid-snake.svg)
 
-## why i stopped
-<br />I stopped playing anarchy because I have a life. 
-<br />You have one too and you should spend you're time outside with your friends and family instead of spending hours a day staring at a screen. 
-<br />If you're still young, this is a great reminder there is so much more to life then being online all the time or you're social status.
-<br />There are people who care about you and there is no true-tail way to tell when you could never see those people again.
-<br />On average, people using screens only 3–4 hours a day end up loosing 10 years of their life to the screens.
-<br />I appreciate the time, memories, and relationships i've had the opportunity to make along the way, and, you for spending time reading my advice.
-<br />I will never truly be gone,
-<br />- xeon
+<h2>Why I Stopped</h2>
+<p>I stopped playing Anarchy because life is more important. You have a life too—spend it with friends and family instead of hours on a screen. If you’re young, remember there’s so much more beyond online status. People care about you, and you never know when you might not see them again.</p>
+<p>On average, spending more than 3–4 hours daily on screens can cost you years of life. I cherish the memories and connections I've made, and I appreciate you taking the time to read my message.</p>
+<p>I’m never truly gone<br>- Xeon</p>
 
 <br />Discord: xeonlyfe
 <br />Fun fact, fuck you.
