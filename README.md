@@ -1,8 +1,11 @@
 ## who i am
-I'm Xeon and I hate when people use protection.
+I'm Xeon and I hate protection.
+<br />Discord: xeonlyfe
+<br />Fun fact, fuck you.
+<br />![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
 
 ## shit i know
-Java C++ C# HTML Veteran
+Java C++ C# HTML Vet
 
 <p align="center">
 
@@ -13,6 +16,3 @@ Java C++ C# HTML Veteran
 <p>On average, spending more than 3–4 hours daily on screens can cost you years of life. I cherish the memories and connections I've made, and I appreciate you taking the time to read my message.</p>
 <p>I’m never truly gone<br>- Xeon</p>
 
-<br />Discord: xeonlyfe
-<br />Fun fact, fuck you.
-<br />![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
