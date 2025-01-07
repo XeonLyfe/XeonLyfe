@@ -1,8 +1,9 @@
 ## Who:
 I'm xeon and I hate protection.
 
+<br />Languages: Java C++ C# HTML
 <br />Discord: xeonlyfe
-<br />Lang: Java C++ C# HTML Vet
+
 <br />![Profile Views](https://komarev.com/ghpvc/?username=xeonlyfe)
 
 <p align="center">
